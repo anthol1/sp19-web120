@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+   <head>
+   
+      <meta charset="UTF-8" />
+      <title>Anton Holmgren - Portal Site</title>
+      <link rel="stylesheet" type="text/css" href="big.css"/>
+      <link rel="stylesheet" type="text/css" href="main.css"/>
+      <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400|Roboto:400,900i" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900|Raleway:400,800,900" rel="stylesheet">
+
+
+   </head>
+
+   <body>
+      <header>
+         <h1><a href="index.html">Anton Holmgren</a></h1>
+         <ul>
+            <li><a href="index.php">Welcome</a></li>
+            <li><a href="big.php">Big</a></li>
+            <li><a href="aia.php">AIA</a></li>
+            <li><a href="Flowchart.php">Flowchart</a></li>
+            <li><a href="galleries.php">Galleries</a></li>
+            <li><a href="shopcarts.php">Shopping Carts</a></li>
+            <li><a href="appvs.php">App VS Mobile Design</a></li>
+            <li><a href="Webcam.php">Webcam</a></li>
+            <li><a href="contactme.php">Final Project</a></li>
+            <li><a href="google.php">Google</a></li>
+
+         </ul>
+      </header>
+
+
+      <div>
+
+         <iframe src="https://calendar.google.com/calendar/htmlembed?src=addressbook%23contacts%40group.v.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+         <iframe id="map"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34024.05675596922!2d13.382392704939209!3d57.792803820543476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465a84d6c9ac801d%3A0x2f97aa3bc4c77987!2sUlricehamn%2C+Sweden!5e0!3m2!1sen!2sus!4v1558752487635!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/bnts1x9gAr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+      </div>
+      
+       
+      
+
+
+
+
+
+
+
+
+
+
+      <footer><small>&copy; <?php echo date("Y");?>, All Rights Reserved, <a href="http://validator.w3.org/check?uri=referer" target="_blank">Valid HTML</a> ~ <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">Valid CSS</a></small></footer>
+
+   </body>
+
+</html>

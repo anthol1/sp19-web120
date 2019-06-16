@@ -1,0 +1,64 @@
+.table1  {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+.table1 td {
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+	border-color:black;
+}
+.table1 th {
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-weight:normal;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+	border-color:black;
+}
+.table1 .text1 {
+	text-align:left
+}
+.table1 .text2 {
+	text-align:left;
+	vertical-align:top
+}
+
+.table2  {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+.table2 td {
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+	border-color:black;
+}
+.table2 th {
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-weight:normal;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+	border-color:black;
+}
+
+.table2 .head1 {
+	font-size:14px;text-align:center
+	font-weight:bold;
+	margin-top: 50px;
+}
